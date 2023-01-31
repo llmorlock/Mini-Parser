@@ -1,3 +1,0 @@
-begin
-C = A - B - C + A;
-end
